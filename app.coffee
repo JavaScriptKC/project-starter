@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 express = require 'express'
 app = express.createServer()
 port = process.env.PORT || 3000
